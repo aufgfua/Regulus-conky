@@ -5,4 +5,4 @@ To install, refer to the theme creator:
 https://github.com/closebox73/applying-theme
 
 Here is how it looks:
-![preview of the theme on desktop](https://github.com/aufgfua/regulus-conky/preview.png?raw=true)
+![preview of the theme on desktop](https://github.com/aufgfua/regulus-conky/blob/main/preview.png?raw=true)
